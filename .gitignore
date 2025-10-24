@@ -62,6 +62,7 @@ venv/
 # IDEs
 .vscode/
 .idea/
+.history/
 *.swp
 *.swo
 *~
