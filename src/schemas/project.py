@@ -95,8 +95,8 @@ class ProjectListResponse(BaseModel):
                         "name": "Project 1",
                         "description": "Description 1",
                         "status": "active",
-                        "created_at": "2024-01-15T10:30:00",
-                        "updated_at": "2024-01-15T10:30:00"
+                        "created_at": "2025-12-31T10:30:00",
+                        "updated_at": "2025-12-31T10:30:00"
                     }
                 ]
             }
