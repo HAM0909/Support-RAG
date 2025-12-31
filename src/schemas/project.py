@@ -74,8 +74,8 @@ class ProjectResponse(BaseModel):
                 "name": "Support Documents",
                 "description": "FAQ and support documentation",
                 "status": "active",
-                "created_at": "2024-01-15T10:30:00",
-                "updated_at": "2024-01-15T10:30:00"
+                "created_at": "2025-12-31T10:30:00",
+                "updated_at": "2025-12-31T10:30:00"
             }
         }
 

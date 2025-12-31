@@ -233,7 +233,7 @@ curl -X POST http://localhost:8000/api/v1/rag/retrieve \
       "metadata": {
         "source": "research_paper.pdf",
         "page": 5,
-        "date": "2024-01-15"
+        "date": "2025-12-31"
       }
     },
     {
@@ -245,7 +245,7 @@ curl -X POST http://localhost:8000/api/v1/rag/retrieve \
       "metadata": {
         "source": "textbook.pdf",
         "page": 42,
-        "date": "2024-02-20"
+        "date": "2025-12-31"
       }
     }
   ],

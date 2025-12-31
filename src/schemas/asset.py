@@ -48,7 +48,7 @@ class AssetResponse(BaseModel):
                 "asset_type": "pdf",
                 "file_size": 1024000,
                 "file_path": "/data/projects/1/file.pdf",
-                "created_at": "2024-01-15T10:30:00"
+                "created_at": "2025-12-31T10:30:00"
             }
         }
 

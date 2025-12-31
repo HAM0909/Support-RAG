@@ -46,8 +46,8 @@ class ChunkResponse(BaseModel):
                 "content": "This is a text chunk extracted from a document...",
                 "chunk_index": 0,
                 "token_count": 150,
-                "created_at": "2024-01-15T10:30:00",
-                "updated_at": "2024-01-15T10:30:00"
+                "created_at": "2025-12-31T10:30:00",
+                "updated_at": "2025-12-31T10:30:00"
             }
         }
 
